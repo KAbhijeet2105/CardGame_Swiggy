@@ -3,6 +3,7 @@ package com.kabhijeet.dev.models;
 import java.util.ArrayList;
 import java.util.Collections;
 
+//this class will provide shuffled deck of cards.
 public class Deck {
 
     private ArrayList<Card> deck; //deck is collection of cards.

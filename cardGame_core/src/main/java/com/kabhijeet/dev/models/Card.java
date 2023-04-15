@@ -1,5 +1,6 @@
 package com.kabhijeet.dev.models;
 
+
 public class Card {
 
     private int num; //card number

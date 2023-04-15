@@ -2,6 +2,8 @@ package com.kabhijeet.dev.models;
 
 import java.util.ArrayList;
 
+
+//we will be having multiple player upto 4. // min players: 2, max players : 4
 public class Player {
 
     private int player_id;
